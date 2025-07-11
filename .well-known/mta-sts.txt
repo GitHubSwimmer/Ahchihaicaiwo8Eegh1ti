@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
 mx: mail.avmx.de
-max_age: 3600
+max_age: 86400
